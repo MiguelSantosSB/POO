@@ -1,0 +1,46 @@
+{
+    "name": "Atlas Bank - ABK",
+    "theme": {
+    "colors":{
+        "global":{
+            "000": "#F8F8F8",
+            "050": "#E6E6E6",
+            "100": "#CCCCCC",
+            "200": "#B3B3B3",
+            "300": "#999999",
+            "400": "#808080",
+            "500": "#666666",
+            "600": "#4D4D4D",
+            "700": "#333333",
+            "800": "#1A1A1A",
+            "900": "#090909"
+        },
+
+        "main":{
+            "main_light": "#5482ff",
+            "main_base": "#0000FF",
+            "main_low": "#396cf7"
+        },
+
+        "actions":{
+            "danger":{
+                "danger_light": "#f75a68",
+                "danger_base": "#cc2937",
+                "danger_low": "#2d090c"
+            },
+
+            "warning":{
+                "warning_light": "#fba94c",
+                "warning_base": "#eb8a1d",
+                "warning_low": "#2e1b06"
+            },
+
+            "success":{
+                "success_light": "#04d361",
+                "success_base": "#1b873f",
+                "success_low": "#051b0d"
+            }
+        }
+    }       
+    }
+}
